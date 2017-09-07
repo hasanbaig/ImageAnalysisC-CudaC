@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 //C implementation of Morphological Opening Operation
 //Author: Hasan Baig
 //Email: hasan.baig@hotmail.com 
