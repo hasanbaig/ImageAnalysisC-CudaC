@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // Functions for GPU
 //Author: Hasan Baig
 //Email: hasan.baig@hotmail.com
@@ -1030,4 +1030,3 @@ __global__ void maj_min_scan_G_SM_B
 }
 */
 //**********************************************************************
->>>>>>> ac3cb0f79f55229281d36df36921a63db1d105b7
