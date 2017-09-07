@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 //GPU implementation of Major Minor Axes Scan
 //Author: Hasan Baig
 //Email: hasan.baig@hotmail.com 
@@ -235,5 +235,3 @@ int main (void)
 	return 0;
 }
 
-
->>>>>>> ac3cb0f79f55229281d36df36921a63db1d105b7
