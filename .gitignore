@@ -4,3 +4,10 @@
 *.ptx
 *.cubin
 *.fatbin
+Design_Files/CPU_TESTs/1_Noise_Eliminator_C/Morph_C.cpp
+*.cpp
+*.exe
+Design_Files/CPU_TESTs/1_Noise_Eliminator_C/Morph_C.exe
+Design_Files/CPU_TESTs/1_Noise_Eliminator_C/Morph_C.cpp
+*.h
+*.exe
