@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 //*********************** GPU Kernel for Noise Elimination *************
 //Author: Hasan Baig
 //Email: hasan.baig@hotmail.com
@@ -430,4 +430,3 @@ __global__ void e_calc_G
 		}
 }
 //**********************************************************************
->>>>>>> ac3cb0f79f55229281d36df36921a63db1d105b7
