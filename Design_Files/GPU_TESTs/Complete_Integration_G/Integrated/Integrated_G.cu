@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 //Integrated Code
 //Author: Hasan Baig
 //Email: hasan.baig@hotmail.com 
@@ -369,4 +369,3 @@ int main(void)
 	system("pause");
 	return 0;
 }
->>>>>>> ac3cb0f79f55229281d36df36921a63db1d105b7
