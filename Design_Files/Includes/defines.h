@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /////Defines for Noise Eliminator Kernel////
 //Author: Hasan Baig
 //Email: hasan.baig@hotmail.com
@@ -334,6 +334,3 @@ int Image[TILE_WIDTH_SCAN*BLOCKS_Y_SCAN][TILE_WIDTH_SCAN*BLOCKS_X_SCAN] =
 
 float e_obj[BLOCKS_Y_SCAN][BLOCKS_X_SCAN];
 int e_obj_size = BLOCKS_Y_SCAN * BLOCKS_X_SCAN * sizeof(float);
-
-
->>>>>>> ac3cb0f79f55229281d36df36921a63db1d105b7
